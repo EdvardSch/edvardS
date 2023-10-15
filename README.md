@@ -1,7 +1,7 @@
 # edvardS
-# För studier
-# Uppgift: Skapa ett repository med en README fil i. Lägg till markdown som beskriver ditt repository samt uppgifften. 
-# Kommentar: om jag förstått uppgiften rätt så ska man skriva in lite html kod i denna fil också i form av markdown?
+## För studier
+## Uppgift: Skapa ett repository med en README fil i. Lägg till markdown som beskriver ditt repository samt uppgifften. 
+## Kommentar: om jag förstått uppgiften rätt så ska man skriva in lite html kod i denna fil också i form av markdown?
 
 #Header: 
 # H1 : Störst text / Headlines
